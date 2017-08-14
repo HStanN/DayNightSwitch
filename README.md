@@ -1,5 +1,5 @@
 ### DayNightSwitch
-仿IOS版的DayNightSwitch
+仿IOS版的[DayNightSwitch](https://github.com/finngaida/DayNightSwitch)
 
 ![Source](https://github.com/HStanN/DayNightSwitch/blob/master/image/switch.gif)
 
