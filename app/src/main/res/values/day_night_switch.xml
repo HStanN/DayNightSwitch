@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DayNightSwitch">
+        <attr name="status" format="enum">
+            <enum name="day" value="0"/>
+            <enum name="night" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
